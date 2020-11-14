@@ -1,0 +1,124 @@
+body{
+  margin: 0;
+  text-align: center;
+  width: 1511.820px;
+  height: 2759.380px;
+}
+.top-container{
+  background-color: #e0ebe8;
+  text-align: center;
+  height: 700px;
+  position: relative;
+  padding: 50px;
+}
+.cloud{
+  height: 10%;
+  width: 10%;
+}
+.land{
+  width: 60%;
+  position: absolute;
+  left: 20%;
+  right: 20%;
+  bottom: 0;
+}
+.right{
+  position: relative;
+  bottom: 17%;
+}
+.left{
+  position: relative;
+  top: 9%;
+}
+.jump {
+  position: relative;
+  height: 70px;
+  top: 15%;
+  right: 11%;
+}
+.about {
+  position: relative;
+  top: 11%;
+}
+.middle-container{
+  padding: 10px;
+  margin: 100px;
+  margin-bottom: 50px;
+}
+.profile {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: center;
+}
+.skill-row {
+  width: 55%;
+  height: auto;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.java {
+  width: 35%;
+  float: left;
+}
+.web {
+  width: 35%;
+  float: right;
+  position: relative;
+  bottom: 0%;
+}
+
+.contact {
+  background-color: #66BFBF;
+  padding: 14px 25px;
+  text-decoration: none;
+  color: white;
+  font-size: 126%;
+  font-family: 'Lobster', cursive;
+}
+.contact:hover{
+  background-color: Pink;
+  padding: 14px 25px;
+  text-decoration: none;
+  color: black;
+  font-size: 126%;
+  font-family: 'Lobster', cursive;
+}
+.bottom-container{
+  background-color: #e0ebe8;
+  padding: 10px;
+}
+.footer-link {
+  height: 55px;
+  width: 55px;
+}
+h1 {
+  color: #66BFBF;
+  font-family: 'Great Vibes', cursive;
+  font-size: 671%;
+  margin: 50px auto 0 auto;
+}
+h4 {
+  color: #66BFBF;
+  font-family: 'Arima Madurai', cursive;
+  font-size: 176%;
+}
+h2 {
+  color: #66BFBF;
+  font-family: 'Arima Madurai', cursive;
+  font-size: 2em;
+}
+h3 {
+  color: #11999E;
+  font-family: 'Lobster', cursive;
+}
+p {
+  line-height: 2;
+  font-size: 100%;
+}
+hr {
+  opacity: 0.1;
+  background-color: white;
+  border-top: dotted 10px grey ;
+  width: 10%;
+  margin: 50px auto 100px auto;
+}
